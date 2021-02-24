@@ -1,0 +1,3 @@
+{
+    "files": ["main.py","classifier.py","database_gestion.py","strings.py","styles.py"]
+}
