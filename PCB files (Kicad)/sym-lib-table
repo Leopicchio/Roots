@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name 0530480710)(type Legacy)(uri ${KIPRJMOD}/COMPONENTS_LIBRARIES/0530480710/KiCad/0530480710.lib)(options "")(descr ""))
+  (lib (name AD5932)(type Legacy)(uri ${KIPRJMOD}/COMPONENTS_LIBRARIES/AD5932YRUZ/KiCAD/AD5932/AD5932.lib)(options "")(descr ""))
+  (lib (name OPA322)(type Legacy)(uri ${KIPRJMOD}/COMPONENTS_LIBRARIES/OPA322/OPA322.lib)(options "")(descr ""))
+  (lib (name KC2016Z)(type Legacy)(uri ${KIPRJMOD}/COMPONENTS_LIBRARIES/KC2016Z/KC2016Z.lib)(options "")(descr ""))
+)

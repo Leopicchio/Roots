@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name AD5932YRUZ)(type KiCad)(uri ${KIPRJMOD}/AD5932YRUZ.pretty)(options "")(descr ""))
+  (lib (name OPA322)(type KiCad)(uri ${KIPRJMOD}/COMPONENTS_LIBRARIES/OPA322/OPA322.pretty)(options "")(descr ""))
+  (lib (name KC2016Z)(type KiCad)(uri ${KIPRJMOD}/COMPONENTS_LIBRARIES/KC2016Z/KC2016Z.pretty)(options "")(descr ""))
+  (lib (name 0530480710)(type KiCad)(uri ${KIPRJMOD}/COMPONENTS_LIBRARIES/0530480710/KiCad/0530480710.pretty)(options "")(descr ""))
+)
