@@ -1,33 +1,14 @@
 # Roots
 
-<div class="row">
-  <div class="column">
-    <img src="https://github.com/Leopicchio/Roots/blob/main/PCB_roots.png" alt="drawing" width="200"/>
-  </div>
-  <div class="column">
-    <img src="https://github.com/Leopicchio/Roots/blob/main/sensor.png" alt="drawing" width="200"/>
-  </div>
-  <div class="column">
+<img src="https://github.com/Leopicchio/Roots/blob/main/PCB_roots.png" alt="drawing" width="200"/> |
+
+    <img src="https://github.com/Leopicchio/Roots/blob/main/sensor.png" alt="drawing" width="200"/> |
+
     <img src="https://github.com/Leopicchio/Roots/blob/main/setup_example.png" alt="drawing" width="200"/>
-  </div>
-   <div class="column">
+
     <img src="https://github.com/Leopicchio/Roots/blob/main/PCB_arthur.png" alt="drawing" width="200"/>
-  </div>
-</div>
 
-/* Three image containers (use 25% for four, and 50% for two, etc) */
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
 
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
 
 
 Welcome to the Roots project! 
