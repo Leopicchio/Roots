@@ -3,6 +3,7 @@
 
 
 <img src="https://github.com/Leopicchio/Roots/blob/main/PCB_roots.png" alt="drawing" width="200"/>
+<img src="https://github.com/Leopicchio/Roots/blob/main/sensor.png" alt="drawing" width="200"/>
 
 Welcome to the Roots project! 
 
