@@ -2,9 +2,9 @@
 
 <p float="left">
     <img src="https://github.com/Leopicchio/Roots/blob/main/PCB_roots.png" alt="drawing" width="200"/> 
-    <img src="https://github.com/Leopicchio/Roots/blob/main/sensor.png" alt="drawing" width="200"/> 
+    <img src="https://github.com/Leopicchio/Roots/blob/main/sensor.png" alt="drawing" width="150"/> 
     <img src="https://github.com/Leopicchio/Roots/blob/main/setup_example.png" alt="drawing" width="200"/>
-    <img src="https://github.com/Leopicchio/Roots/blob/main/PCB_arthur.png" alt="drawing" width="100"/>
+    <img src="https://github.com/Leopicchio/Roots/blob/main/PCB_arthur.png" alt="drawing" width="150"/>
 </p>
 
      
