@@ -1,7 +1,7 @@
 # Roots
 
-![alt text](https://github.com/Leopicchio/Roots/blob/main/PCB_roots.png?raw=true)
-![alt text](https://github.com/Leopicchio/Roots/blob/main/sensor.png?raw=true)
+![alt text](https://github.com/Leopicchio/Roots/blob/main/PCB_roots.png =100x20)
+![alt text](https://github.com/Leopicchio/Roots/blob/main/sensor.png =100x20)
 
 Welcome to the Roots project! 
 
