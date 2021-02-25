@@ -1,11 +1,21 @@
 # Roots
 
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/Leopicchio/Roots/blob/main/PCB_roots.png" alt="drawing" width="200"/>
+  </div>
+  <div class="column">
+    <img src="https://github.com/Leopicchio/Roots/blob/main/sensor.png" alt="drawing" width="200"/>
+  </div>
+  <div class="column">
+    <img src="https://github.com/Leopicchio/Roots/blob/main/setup_example.png" alt="drawing" width="200"/>
+  </div>
+   <div class="column">
+    <img src="https://github.com/Leopicchio/Roots/blob/main/PCB_arthur.png" alt="drawing" width="200"/>
+  </div>
+</div>
 
 
-<img src="https://github.com/Leopicchio/Roots/blob/main/PCB_roots.png" alt="drawing" width="200"/>
-<img src="https://github.com/Leopicchio/Roots/blob/main/sensor.png" alt="drawing" width="200"/>
-<img src="https://github.com/Leopicchio/Roots/blob/main/setup_example.png" alt="drawing" width="200"/>
-<img src="https://github.com/Leopicchio/Roots/blob/main/PCB_arthur.png" alt="drawing" width="200"/>
 
 Welcome to the Roots project! 
 
